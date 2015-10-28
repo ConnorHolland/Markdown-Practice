@@ -1,19 +1,19 @@
 # Project name
 This is where my project description would go
 
-## Code
+### Code
 
 ```java
 The java code would go here
 System.out.println("Hello World!");
 ```
 
-## Console Output
+### Console Output
 
 ```
 Hello World!
 ```
 
-## Summary
+### Summary
 For this assignment ... etc so on and so forth
 
